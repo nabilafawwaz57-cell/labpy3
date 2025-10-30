@@ -137,3 +137,8 @@ Anda menarik Rp 500000. Sisa saldo: Rp 500000
 1. Dari hasil praktikum ini dapat disimpulkan bahwa:
 2. Perulangan (loop) dalam Python digunakan untuk menjalankan perintah berulang kali secara otomatis tanpa harus menulis perintah yang sama berkali-kali. Terdapat dua jenis perulangan, yaitu:
 - for loop → digunakan saat jumlah perulang
+- while loop → digunakan jika perulangan bergantung pada suatu kondisi (uncounted loop).
+3. Pada Latihan 1, perulangan digunakan untuk menampilkan sejumlah bilangan acak dengan batas kondisi tertentu (kurang dari 0.5).
+4. Pada Latihan 2, perulangan for digunakan untuk menghitung laba usaha tiap bulan berdasarkan kondisi yang berbeda setiap bulan.
+5. Pada Latihan 3, perulangan while digunakan untuk membuat simulasi program ATM yang berjalan terus sampai pengguna memilih keluar.
+6. Dengan memahami konsep perulangan, program menjadi lebih efisien, mudah dibaca, dan mudah dimodifikasi.
